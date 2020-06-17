@@ -20,9 +20,9 @@ npm install
 ```
 npm run serve
 ```
-### Using the project
+Runs the app in the development mode.
 
-Host the app locally, defaults to port 8080
+Open http://localhost:8080 to view it in the browser.
 
 ### Compiles and minifies for production
 ```
