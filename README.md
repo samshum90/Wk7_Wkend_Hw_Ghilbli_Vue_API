@@ -1,6 +1,7 @@
 # Ghibli
 
 Weekend homework two weeks into learning JavaScript and Vue.js at CodeClan. 
+
 Where I used a Ghibli API to build a Vue app.
 
 ![alt text](https://github.com/samshum90/Wk7_Wkend_Hw_Ghilbli_Vue_API/raw/master/src/assets/Ghibli_App.gif "Ghibli App Gif")
