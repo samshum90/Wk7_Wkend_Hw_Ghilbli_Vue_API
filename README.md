@@ -1,5 +1,18 @@
 # ghibli
 
+Weekend homework two weeks into learning JavaScript and Vue.js at CodeClan. Where I used a Ghibli API to build a Vue app.
+
+Display data from an JSON API request
+Clear separation of concerns (multiple components)
+Vue's fetch promises, lifecycle hooks, multiple components, props and event bus
+
+![alt text](https://github.com/samshum90/Wk7_Wkend_Hw_Ghilbli_Vue_API/src/assets/Ghibli_App.gif "Ghibli App Gif")
+
+### Features:
+* Display data from an JSON API request
+* Clear separation of concerns (multiple components)
+* Vue's fetch promises, lifecycle hooks, multiple components, props and event bus
+
 ## Project setup
 ```
 npm install
@@ -9,6 +22,9 @@ npm install
 ```
 npm run serve
 ```
+### Using the project
+
+Host the app locally, defaults to port 8080
 
 ### Compiles and minifies for production
 ```
