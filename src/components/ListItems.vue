@@ -21,5 +21,6 @@ export default {
 <style>
     .listitem{
         font-size: 1.5em;
+        cursor: pointer;
     }
 </style>

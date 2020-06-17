@@ -2,10 +2,10 @@
   <div v-if="film" class="list-item">
       <h2>{{film.title}}</h2>
         <ghibli-film-image :title="film.title"> </ghibli-film-image>
-      <p>Director:{{film.director}}</p>
-      <p>Producer:{{film.producer}}</p>
-      <p>Release Date:{{film.release_date}}</p>
-      <p>Description:{{film.description}}</p>
+      <p>Director: {{film.director}}</p>
+      <p>Producer: {{film.producer}}</p>
+      <p>Release Date: {{film.release_date}}</p>
+      <p>Description: {{film.description}}</p>
   </div>
 </template>
 
@@ -34,7 +34,7 @@ export default {
     border: solid 1px var(--yellowgrey);
     border-radius: 20px;
     width: 100%;
-
+    height: 25%;
     padding: 0px 20px;
     background-color: var(--yellow);
     color: var(--darkgreen);
